@@ -1,6 +1,9 @@
 # Population ecology internship
 
-For BIO357 - Internship in Ecology
+For BIO357 - Internship in Ecology (6 weeks)
+
+Developed a short and rudimentary function to simulate a hypothetical population of wild boar under 6 different hunting regimes.
+No guarantee that it works.
 
 Files in the repository:
 - simulation_function_internship.R = script containing the function to simulate the population of wild boar
